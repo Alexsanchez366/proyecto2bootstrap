@@ -1,0 +1,15 @@
+.coti{
+   margin: 0 auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-top: 3rem;
+
+}
+body{
+    background: rgb(85,237,255);
+background: linear-gradient(90deg, rgba(85,237,255,1) 0%, rgba(102,102,247,1) 48%, rgba(107,230,255,1) 100%);
+}
+
+

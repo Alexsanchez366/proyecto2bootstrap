@@ -1,0 +1,21 @@
+#carouselExampleRide{
+    height: 40%;
+    width: 60%;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 2px 2px;
+
+}
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px;
+}
+
+
+body{
+    background: rgb(0,235,238);
+background: linear-gradient(0deg, rgba(0,235,238,1) 0%, rgba(0,255,16,1) 100%);
+}
